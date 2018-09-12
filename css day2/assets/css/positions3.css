@@ -1,0 +1,33 @@
+.first
+{
+    width:25%;
+    background-color: brown;
+    height:150px;
+    position:static;
+ 
+
+    
+
+}
+.second
+{
+    width:25%;
+    background-color: blue;
+    height:150px;
+    position:relative;
+    left:320px;
+    
+   
+   
+
+}
+.third
+{
+    width:25%;
+    background-color: green;
+    height:150px;
+
+    position:static;
+    
+
+}

@@ -1,0 +1,36 @@
+.main{
+    width: :100%;
+    height: 400px;
+}
+.positions
+{
+    width:20%;
+    background-color: brown;
+    height:150px;
+    position:static;
+ 
+
+    
+
+}
+.right
+{
+    width:20%;
+    background-color: blue;
+    height:150px;
+  
+    position:;
+ 
+   
+
+}
+.bottom
+{
+    width:20%;
+    background-color: green;
+    height:150px;
+   position:static;
+ 
+    
+
+}
